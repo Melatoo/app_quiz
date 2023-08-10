@@ -2,13 +2,11 @@
 
 
 Um aplicativo de quiz desenvolvido em Flutter, onde os usuários podem testar seus conhecimentos em várias áreas.
-![Screenshot_1691631562](https://github.com/Melatoo/app_quiz/assets/103614164/059d1260-2428-443a-853b-4c971735ba48)
-![Screenshot_1691631565](https://github.com/Melatoo/app_quiz/assets/103614164/905b858e-7907-497c-9ac8-0cdbd5bdb8bd)
-![Screenshot_1691631700](https://github.com/Melatoo/app_quiz/assets/103614164/947a16de-aed1-4dde-ba42-9868175d940c)
 
-## Funcionalidades
 
-- Perguntas de múltipla escolha em diferentes categorias.
-- Pontuação e feedback imediatos após cada pergunta.
-- Interface de usuário intuitiva e agradável.
-- Acompanhamento do progresso e pontuação total.
+## Capturas de Tela
+
+![Screenshot_1691631562](https://github.com/Melatoo/app_quiz/assets/103614164/4bf50fd7-9f3f-4bfa-84c3-56649201e94c)
+![Screenshot_1691631565](https://github.com/Melatoo/app_quiz/assets/103614164/01209d40-d4ae-4b6f-a7cc-a983bb0c53cb)
+![Screenshot_1691631700](https://github.com/Melatoo/app_quiz/assets/103614164/6333d80d-7ef4-4fa0-be4b-f1624458d579)
+
