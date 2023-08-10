@@ -1,16 +1,14 @@
-# app_quiz
+# Quiz App em Flutter
 
-A new Flutter project.
 
-## Getting Started
+Um aplicativo de quiz desenvolvido em Flutter, onde os usuários podem testar seus conhecimentos em várias áreas.
+![Screenshot_1691631562](https://github.com/Melatoo/app_quiz/assets/103614164/059d1260-2428-443a-853b-4c971735ba48)
+![Screenshot_1691631565](https://github.com/Melatoo/app_quiz/assets/103614164/905b858e-7907-497c-9ac8-0cdbd5bdb8bd)
+![Screenshot_1691631700](https://github.com/Melatoo/app_quiz/assets/103614164/947a16de-aed1-4dde-ba42-9868175d940c)
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Perguntas de múltipla escolha em diferentes categorias.
+- Pontuação e feedback imediatos após cada pergunta.
+- Interface de usuário intuitiva e agradável.
+- Acompanhamento do progresso e pontuação total.
