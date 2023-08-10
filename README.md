@@ -1,7 +1,7 @@
 # Quiz App em Flutter
 
 
-Um aplicativo de quiz desenvolvido em Flutter, onde os usuários podem testar seus conhecimentos em várias áreas.
+Um aplicativo de quiz desenvolvido em Flutter, onde os usuários podem testar seus conhecimentos sobre Flutter.
 
 
 ## Capturas de Tela
