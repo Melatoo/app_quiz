@@ -9,6 +9,7 @@ class ResultScreen extends StatelessWidget {
 
   final List<String> chosenAnswers;
 
+  //poderia ser um 'metodo get' como List<Map<String, Object>> get SummaryData {}
   List<Map<String, Object>> getSummaryData() {
     final List<Map<String, Object>> summary = [];
 
